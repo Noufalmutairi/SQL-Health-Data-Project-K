@@ -1,8 +1,5 @@
 # Key Data of Hospitals: Analysis using SQL
 
-## Dataset
-You can access the dataset [here](https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
-
 
 ## Queries Overview
 
@@ -75,6 +72,8 @@ You can access the dataset [here](https://www.kaggle.com/datasets/prasad22/healt
 - Utilizes `COUNT`, `AVG`, `GROUP BY`, and string concatenation for comprehensive patient analysis.
 
 
+## Dataset
+You can access the dataset [here](https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
 
 
 ## Additional Resources
