@@ -73,6 +73,7 @@
 
 
 
+
 ## Additional Resources
 - Read the article for a deeper understanding: [Key Data of Hospitals: Analysis using SQL](https://www.linkedin.com/pulse/key-data-hospitals-analysis-using-sql-nouf-almutairi-tyehe/)
 ## Contact Information
