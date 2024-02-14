@@ -72,9 +72,6 @@
 - Utilizes `COUNT`, `AVG`, `GROUP BY`, and string concatenation for comprehensive patient analysis.
 
 
-## Dataset
-You can access the dataset [here](https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
-
 
 ## Additional Resources
 - Read the article for a deeper understanding: [Key Data of Hospitals: Analysis using SQL](https://www.linkedin.com/pulse/key-data-hospitals-analysis-using-sql-nouf-almutairi-tyehe/)
