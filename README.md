@@ -6,6 +6,9 @@ Analyzing a healthcare dataset to gain insights into patient profiles, treatment
 ## Dataset
 - **Source:** [Here](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 
+## Technologies Used
+- MySQL
+
 
 ## Queries Overview
 
