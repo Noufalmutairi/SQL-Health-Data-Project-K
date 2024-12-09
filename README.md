@@ -34,4 +34,4 @@ This project involves analyzing a healthcare dataset to gain insights into patie
 ## Additional Resources
 - Read the article for a deeper understanding: [Key Data of Hospitals: Analysis using SQL](https://www.linkedin.com/pulse/key-data-hospitals-analysis-using-sql-nouf-almutairi-tyehe/)
 ## Contact Information
-feel free to contact [Nouf Almutairi](https://www.linkedin.com/in/nouf-almutairi-5671132a2/) 
+feel free to contact [Nouf Almutairi](https://www.linkedin.com/in/noufalmutairih1/) 
